@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+data/
+.vercel/
+# installed agent skills (restore with the commands in README; skills-lock.json pins them)
+.agents/
+.claude/
+.DS_Store
